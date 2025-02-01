@@ -4,4 +4,4 @@ This is a personal project. Aiming to provide a technical visualization guide fo
 
 I wish you all the best !
 
-PROJECT NOT COMPLETED
+project in progress :) . . .
