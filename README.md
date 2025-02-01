@@ -1,6 +1,6 @@
 OWNER: Ng Ge Liang, Stephen 
 
-[PLEASE DOWNLOAD ONE NOTE]
+[DOWNLOAD ONENOTE FOR BEST VIEWING EXPERIENCE]
 
 This is a personal project. Aiming to provide a technical visualization guide for my peers learning computer science :D
 
